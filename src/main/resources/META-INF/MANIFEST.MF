@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: goshawker@yeah.net
+Build-Jdk: 1.8.0_201
+Agent-Class: bird.Agent
+Can-Redefine-Classes: true
+Can-Retransform-Classes: true
+Main-Class: bird.BugHelper
+Permissions: all-permissions
+addClasspath: true
+classpathPrefix: lib/
+
